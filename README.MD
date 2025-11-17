@@ -25,13 +25,13 @@ This project demonstrates best practices for stateless auth in microservices/API
 ### Register Page
 A clean form for new users with responsive fields (name, email, password). Mobile: Stacked; Desktop: Grid layout.
 
-![Register Page](https://via.placeholder.com/800x600?text=Register+Page)  
+![Register Page](register.png)  
 *(Screenshot: Form with Tailwind styling—first/last name side-by-side on larger screens.)*
 
 ### Login Page
 Includes email/password form, "Forgot Password" link, and social buttons (Google/GitHub). Errors show in red banners.
 
-![Login Page](https://via.placeholder.com/800x600?text=Login+Page)  
+![Login Page](login.png)  
 *(Screenshot: Social buttons stack on mobile; error message for invalid creds.)*
 
 ### Dashboard Page
